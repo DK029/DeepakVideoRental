@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepakVideoRental", "DeepakVideoRental\DeepakVideoRental.csproj", "{33471A27-9004-42A0-95E7-4A77BEF7B08B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepakVideoRentalTests", "DeepakVideoRentalTests\DeepakVideoRentalTests.csproj", "{5ECBDC81-B0A5-4865-B5CC-C6E41D77D4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33471A27-9004-42A0-95E7-4A77BEF7B08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33471A27-9004-42A0-95E7-4A77BEF7B08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33471A27-9004-42A0-95E7-4A77BEF7B08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33471A27-9004-42A0-95E7-4A77BEF7B08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ECBDC81-B0A5-4865-B5CC-C6E41D77D4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ECBDC81-B0A5-4865-B5CC-C6E41D77D4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ECBDC81-B0A5-4865-B5CC-C6E41D77D4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ECBDC81-B0A5-4865-B5CC-C6E41D77D4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F731CFF-61E7-44A9-9BBD-75911CCEF593}
+	EndGlobalSection
+EndGlobal
